@@ -180,8 +180,8 @@ h1,h2,h3,h4,h5
 	}
 #home h1
     {
-        border: 2px solid #D43F52;
-        color: #D43F52;
+        border: 2px solid #7c0f1d;
+        color: #7c0f1d;
         display: inline-block;
         letter-spacing: 6px;
         padding: 25px 35px;
@@ -189,13 +189,18 @@ h1,h2,h3,h4,h5
     }
 #home h2
     {
+        color: #02044c;
         padding-bottom: 10px;
+    }
+#home h3
+    {
+        color: #02044c;
     }
 #home .btn
     {
         background: transparent;
-        border: 2px solid #ffffff;
-        color: #ffffff;
+        border: 2px solid #02044c;
+        color: #02044c;
         font-size: 16px;
         font-weight: bold;
         width: 180px;
